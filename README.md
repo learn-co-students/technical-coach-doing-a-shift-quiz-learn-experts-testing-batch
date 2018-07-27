@@ -5,7 +5,7 @@
 
 ???
 
-?: What types of roles are available during a shift? (Check all that apply)
+?: What types of roles are available during a shift?
 
 [X] Sync
 [X] Dispatch
@@ -14,16 +14,16 @@
 
 ?: What Slack channel do we use during our shift and for all shift related content?
 
-(X) `#technical-coaches`
-( ) `#labs-escalation`
-( ) `#tc_updates`
+(X) #technical-coaches
+( ) #labs-escalation
+( ) #tc_updates
 
 ?: When you log in for your sync shift what's the first thing you should type?
 
 ( ) hello
-(X) `qbot in sync`
-( ) `@here in`
-( ) `qbot nsync`
+(X) qbot in sync
+( ) @here in
+( ) qbot nsync
 
 ?: An active question is one where
 
@@ -34,10 +34,10 @@
 ?: When you end a shift, you should (check all that apply)
 
 [X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on)
-[X] Post `qbot out` in the #technical-coaches Slack channel
+[X] Post qbot out in the #technical-coaches Slack channel
 [ ] Email Ruth
 [X] Go to workday and fill in time worked
-[ ] Post `@here out`
+[ ] Post @here out
 
 ?: What should you do if a student cannot/will not screenshare?
 
