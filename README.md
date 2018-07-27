@@ -8,7 +8,7 @@
 ?: What types of roles are available during a shift? (Check all that apply)
 
 [X] Sync
-[X] Dispatch 
+[X] Dispatch
 [ ] Lead expert
 [ ] Support
 
@@ -33,8 +33,8 @@
 
 ?: When you end a shift, you should (check all that apply)
 
-[X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on) 
-[X] Post `qbot out` in the #technical-coaches Slack channel  
+[X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on)
+[X] Post `qbot out` in the #technical-coaches Slack channel
 [ ] Email Ruth
 [X] Go to workday and fill in time worked
 [ ] Post `@here out`
@@ -42,9 +42,8 @@
 ?: What should you do if a student cannot/will not screenshare?
 
 (X) Clone their repo and do chat only support
-( ) Resolve the question  
+( ) Resolve the question
 ( ) Scold the student for their poor internet connection
-
 
 ?: How much time is allotted for pairing with students?
 
