@@ -33,7 +33,7 @@
 
 ?: When you end a shift, you should (check all that apply)
 
-[X] Let everyone you're chatting know that you're going off shift. Let them know that the next person should be on (whenever they should be on)
+[X] Let everyone you're chatting with know that you're going off shift. Let them know that the next person should be on (whenever they should be on)
 [X] Post qbot out in the #technical-coaches Slack channel
 [ ] Email Erika
 [X] Make sure dispatch is covered, if you were last on dispatch
