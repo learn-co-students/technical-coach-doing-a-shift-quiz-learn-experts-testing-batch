@@ -46,7 +46,7 @@
 ( ) Scold the student for their poor internet connection
 
 ?: How much time is allotted for pairing with students?
-test
+
 ( ) 15 minutes
 (X) 20 minutes
 ( ) As long as necessary to resolve the student's problem
