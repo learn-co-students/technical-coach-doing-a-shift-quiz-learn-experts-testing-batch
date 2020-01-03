@@ -33,10 +33,10 @@
 
 ?: When you end a shift, you should (check all that apply)
 
-[X] Let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on)
+[X] Let everyone you're chatting with know that you're going off shift. Let them know that the next person should be on (whenever they should be on)
 [X] Post qbot out in the #technical-coaches Slack channel
-[ ] Email Ruth
-[X] Go to workday and fill in time worked
+[ ] Email Erika
+[X] Make sure dispatch is covered, if you were last on dispatch
 [ ] Post @here out
 
 ?: What should you do if a student cannot/will not screenshare?
