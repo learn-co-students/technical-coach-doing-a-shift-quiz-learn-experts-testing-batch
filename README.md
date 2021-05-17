@@ -1,11 +1,12 @@
 # Doing a Shift: Quiz
+
+## Note: this lesson is outdated, and references language and platforms we no longer use, e.g. "sync", "dispatch", "qbot". Any screenshots are also outdated. You should feel free to skip this lesson for now.
 ---
 
 ???
 
 # Doing a Shift: Quiz
 
-## Note: this lesson is outdated, and references language and platforms we no longer use, e.g. "sync", "dispatch", "qbot". Any screenshots are also outdated. You should feel free to skip this lesson for now.
 
 ?: What types of roles are available during a shift?
 
